@@ -15,3 +15,11 @@ Details of Game :
         3.A Player Who Gets 50 Score Is a WINNER
 
         4.EveryPlayer has One chance to Roll DIce
+
+
+For Demo, click on link here : https://namaninaresh.github.io/Projects/Dice/index.html
+
+
+
+THANK YOU !!!
+
