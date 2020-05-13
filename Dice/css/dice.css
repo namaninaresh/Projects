@@ -1,0 +1,55 @@
+body {
+  background-image: linear-gradient(rgba(62, 20, 0, 4), RGBA(62, 20, 20, 0.4));
+  background-size: cover;
+  background-position: center;
+  color: #555;
+}
+
+.wrapper {
+  position: relative;
+  background-color: #fff;
+  width: 1000px;
+  top: 60px;
+}
+
+.player-name {
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 100;
+  margin-top: 20px;
+  position: relative;
+}
+
+.player-score {
+  text-align: center;
+  font-size: 80px;
+  font-weight: 100;
+  color: #eb4d4d;
+}
+
+.active {
+  background: #f7f7f7;
+}
+
+.active .player-name::after {
+  content: "\2022";
+  font-size: 47px;
+
+  position: absolute;
+  color: #eb4d4d;
+  right: 50px;
+}
+
+.dice-img {
+  width: 100px;
+  position: absolute;
+  bottom: 100%;
+}
+
+.winner {
+  font-size: 2rem;
+  text-align: center;
+  color: #eb4d4d;
+}

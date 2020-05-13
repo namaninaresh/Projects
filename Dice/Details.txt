@@ -1,0 +1,13 @@
+Dice Game  Practise -- Source from udemy javascript Course
+
+Upload date : 13/05/2020
+
+
+
+Press 'r' in keyboard to roll dice
+press 'n' in keyboard to new Game
+
+
+
+
+A Player Who gets 50 Score He is the WINNER
